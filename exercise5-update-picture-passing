@@ -1,0 +1,6 @@
+============================= test session starts ==============================
+collecting ... collected 11 items / 10 deselected / 1 selected
+
+tests/test_api.py::test_update_picture_by_id PASSED
+
+======================= 1 passed, 10 deselected in 0.06s =======================
