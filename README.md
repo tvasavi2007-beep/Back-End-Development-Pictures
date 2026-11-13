@@ -88,4 +88,4 @@ GitHub: [Back-End-Development-Pictures](https://github.com/tvasavi2007-beep/Back
 
 ## Author
 
-Sn
+Snigdha Veera Naga Vasavi Tadi
