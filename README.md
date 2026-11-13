@@ -47,7 +47,7 @@ pytest
 
 ## Test Results
 
-All 11 tests passed successfully.
+All 11 API tests passed successfully.
 
 ```text
 ============================== 11 passed in 0.14s ==============================
@@ -63,33 +63,29 @@ The tests cover:
 - Updating picture records
 - Deleting picture records
 
+## Environment Setup
+
+- Python version: `3.10.12`
+- Virtual environment: `backend-pics-venv`
+- Dependencies installed using: `pip install -r requirements.txt`
+- Testing framework: Pytest
+
+### Setup Commands
+
+```bash
+sudo apt-get install -y python3.10-venv
+python3 -m venv backend-pics-venv
+source backend-pics-venv/bin/activate
+python -m pip install --upgrade pip wheel
+pip install -r requirements.txt
+```
+
+**Note:** The provided `bin/setup.sh` script was not successfully executed.
+
 ## Repository
 
 GitHub: [Back-End-Development-Pictures](https://github.com/tvasavi2007-beep/Back-End-Development-Pictures)
 
 ## Author
 
-Snigdha Veera Naga Vasavi Tadi
-
-## Environment Setup
-
-- Python version: 3.10.12
-- Virtual environment: backend-pics-venv
-- Dependencies installed using: pip install -r requirements.txt
-- Testing framework: Pytest
-
-### Setup Commands
-
-    sudo apt-get install -y python3.10-venv
-    python3 -m venv backend-pics-venv
-    source backend-pics-venv/bin/activate
-    python -m pip install --upgrade pip wheel
-    pip install -r requirements.txt
-
-### Test Results
-
-All 11 API tests passed successfully.
-
-    11 passed in 0.14s
-
-Note: The provided bin/setup.sh script was not successfully executed.
+Sn
