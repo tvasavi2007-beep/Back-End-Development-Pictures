@@ -54,6 +54,7 @@ All 11 tests passed successfully.
 ```
 
 The tests cover:
+
 - Application health and picture count
 - Retrieving all pictures
 - Retrieving pictures by ID
@@ -64,7 +65,7 @@ The tests cover:
 
 ## Repository
 
-GitHub: https://github.com/tvasavi2007-beep/Back-End-Development-Pictures
+GitHub: [Back-End-Development-Pictures](https://github.com/tvasavi2007-beep/Back-End-Development-Pictures)
 
 ## Author
 
